@@ -1,0 +1,75 @@
+#: cache-control.php:3
+msgid "wao.io Cache Control"
+msgstr "wao.io Cache Control"
+
+#: cache-control.php:4
+msgid "By using this plugin, you can control your site´s cache at wao.io."
+msgstr "By using this plugin, you can control your site's cache at wao.io."
+
+#: cache-control.php:11
+msgid "Invalidate Origin Content"
+msgstr "Invalidate Origin Content"
+
+#: cache-control.php:22
+msgid "Click on the button to invalidate your site´s cache at wao.io now"
+msgstr "Click on the button to invalidate your site's cache at wao.io now"
+
+#: cache-control.php:45
+msgid "Cache invalidation treats all content in the cache as if it was outdated."
+msgstr "Cache invalidation treats all content in the cache as if it was outdated. This means that wao.io will check on the next request if the content changed on the origin server. If so, it will be requested. Otherwise wao.io will continue to use the cached resource. This is especially useful if you changed only a few images and the majority of content remained unmodified."
+
+#: cache-control.php:50
+msgid "Cache invalidation will automatically be triggered after publishing or updating a post or a page, and after switching a theme."
+msgstr "Cache invalidation will automatically be triggered after publishing or updating a post or a page, and after switching a theme."
+
+#: cache-control.php:61
+msgid "Site Credentials"
+msgstr "Site Credentials"
+
+#: cache-control.php:64
+msgid "API Key"
+msgstr "API Key"
+
+#: cache-control.php:68
+msgid "Site ID"
+msgstr "Site ID"
+
+#: cache-control.php:75
+msgid "You did not enter your API key and site ID yet."
+msgstr "You did not enter your API key and site ID yet."
+
+#: cache-control.php:82
+msgid "To use this plugin, please enter an API key and a site ID in the wao.io section of your"
+msgstr "To use this plugin, please enter an API key and a site ID in the wao.io section of your"
+
+#: cache-control.php:84
+msgid "settings"
+msgstr "settings"
+
+#: cache-control.php:88
+msgid "If you do not have an API key yet, please contact"
+msgstr "If you do not have an API key yet, please contact"
+
+#: cache-control.php:92
+msgid "support!"
+msgstr "support!"
+
+#: cache-control.php:107
+msgid "Status"
+msgstr "Status"
+
+#: cache-control.php:113
+msgid "Server Time"
+msgstr "Server Time"
+
+#: wao-iocache-control.php:127
+msgid "Could not invalidate your cache at wao.io."
+msgstr "Could not invalidate your cache at wao.io."
+
+#: wao-iocache-control.php:139
+msgid "Successfully invalidated your cache at wao.io."
+msgstr "Successfully invalidated your cache at wao.io."
+
+#: wao-iocache-control.php:212
+msgid "Activated wao.io Cache Control plugin."
+msgstr "Activated wao.io Cache Control plugin."

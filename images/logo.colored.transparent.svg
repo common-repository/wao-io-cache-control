@@ -1,0 +1,96 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='172' height='57' viewBox='0 0 172 57'>
+  <title>wao.io logo in color</title>
+  <style type='text/css'>
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#0096AF;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{mask:url(#b_6_);fill-rule:evenodd;clip-rule:evenodd;fill:#0096AF;}
+	.st4{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st5{mask:url(#b_5_);}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#00A5B6;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#00DAC6;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#00C3C3;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#4DEDD8;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#00CFC5;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#00B4BC;}
+	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:#00E6C8;}
+	.st13{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st14{mask:url(#b_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#0096AF;}
+	.st15{fill:#254962;}
+</style>
+<g>
+	<path class='st0' d='M123.2,29.4h-3.3c-1.9,0-2.9,0.8-2.9,2c0,1.2,0.9,1.8,2.3,1.8C121.5,33.2,123.1,31.3,123.2,29.4 M113.9,31.3
+		c0-3,2.4-4.1,5.8-4.1h3.5c0-2.1-0.9-3.5-3-3.5c-1.7,0-2.9,1-3.5,2l-2.3-1.7c1.3-1.8,3.1-3,5.7-3c3.8,0,5.9,2.4,5.9,5.8v8.6h-2.5
+		l-0.2-2.3c-1.2,1.9-2.8,2.5-4.6,2.5C116,35.8,113.9,34.2,113.9,31.3 M139.6,28.4c0-2.5-1.2-4.7-3.9-4.7c-2.8,0-3.9,2.3-3.9,4.7
+		c0,2.5,1.2,4.8,3.9,4.8C138.4,33.2,139.6,30.9,139.6,28.4 M128.6,28.4c0-4,2.8-7.3,7-7.3c4.2,0,7.1,3.3,7.1,7.3s-2.8,7.4-7.1,7.4
+		C131.4,35.8,128.6,32.4,128.6,28.4'/>
+	<defs>
+		<filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='144.9' y='15.5' width='26.8' height='20.3'>
+			<feColorMatrix  type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0'/>
+		</filter>
+	</defs>
+	<mask maskUnits='userSpaceOnUse' x='144.9' y='15.5' width='26.8' height='20.3' id='b_6_'>
+		<g class='st1'>
+			<path id='a_6_' class='st2' d='M0,47h171.7V0.7H0V47z'/>
+		</g>
+	</mask>
+	<path class='st3' d='M144.9,35.5h3.3v-3.4h-3.3V35.5z M151.6,35.5h3V21.4h-3V35.5z M151.4,18.5h3.2v-3h-3.2V18.5z M168.5,28.4
+		c0-2.5-1.2-4.7-3.9-4.7c-2.8,0-3.9,2.3-3.9,4.7c0,2.5,1.2,4.8,3.9,4.8S168.5,30.9,168.5,28.4 M157.6,28.4c0-4,2.8-7.3,7-7.3
+		c4.2,0,7.1,3.3,7.1,7.3s-2.8,7.4-7.1,7.4C160.4,35.8,157.6,32.4,157.6,28.4'/>
+	<defs>
+		<filter id='Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='0' y='0.7' width='79.5' height='46.3'>
+			<feColorMatrix  type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0'/>
+		</filter>
+	</defs>
+	<mask maskUnits='userSpaceOnUse' x='0' y='0.7' width='79.5' height='46.3' id='b_5_'>
+		<g class='st4'>
+			<path id='a_5_' class='st2' d='M0,47h171.7V0.7H0V47z'/>
+		</g>
+	</mask>
+	<g class='st5'>
+		<path class='st6' d='M19.9,47V23.9L0,35.5L19.9,47z'/>
+		<path class='st7' d='M59.7,47V23.9L39.8,35.5L59.7,47z'/>
+		<path class='st8' d='M39.8,35.5V12.4L19.9,23.9L39.8,35.5z'/>
+		<path class='st9' d='M79.5,35.5V12.4L59.7,23.9L79.5,35.5z'/>
+		<path class='st0' d='M0,12.4v23.1l19.9-11.5L0,12.4z'/>
+		<path class='st10' d='M39.8,12.4v23.1l19.9-11.5L39.8,12.4z'/>
+		<path class='st11' d='M19.9,23.9V47l19.9-11.5L19.9,23.9z'/>
+		<path class='st12' d='M59.7,23.9V47l19.9-11.5L59.7,23.9z'/>
+		<path class='st0' d='M59.7,0.7v4.6l4-2.3L59.7,0.7z'/>
+		<path class='st8' d='M59.7,8.1v8.3l7.1-4.1L59.7,8.1z'/>
+		<path class='st10' d='M68.8,6v12.5l10.8-6.3L68.8,6z'/>
+	</g>
+	<defs>
+		<filter id='Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='93' y='21.9' width='19.5' height='14.2'>
+			<feColorMatrix  type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0'/>
+		</filter>
+	</defs>
+	<mask maskUnits='userSpaceOnUse' x='93' y='21.9' width='19.5' height='14.2' id='b_4_'>
+		<g class='st13'>
+			<path id='a_4_' class='st2' d='M0,47h171.7V0.7H0V47z'/>
+		</g>
+	</mask>
+	<path class='st14' d='M98.7,31.5l2.8-9.7h2.6l2.8,9.6l2.5-9.6h3.2L108.3,36h-2.7l-2.9-10l-2.9,10h-2.7L93,21.9h3.2L98.7,31.5z'/>
+</g>
+<g>
+	<path class='st15' d='M97.9,52.2v1.5h-0.9v-9.6h0.9v4.3c0.4-1,1.3-1.6,2.4-1.6c1.8,0,2.9,1.6,2.9,3.5c0,1.9-1.1,3.5-2.9,3.5
+		C99.2,53.8,98.3,53.2,97.9,52.2z M102.3,50.3c0-1.5-0.8-2.7-2.2-2.7s-2.3,1.2-2.3,2.7c0,1.5,0.9,2.7,2.3,2.7S102.3,51.8,102.3,50.3
+		z'/>
+	<path class='st15' d='M106.7,53.6l-2.9-6.7h1l2.4,5.6l2.1-5.6h1l-3.7,9.7h-1L106.7,53.6z'/>
+	<path class='st15' d='M118,44.1h0.8l3.6,9.6h-1l-0.8-2.3h-4.2l-0.8,2.3h-1L118,44.1z M120.3,50.5l-1.8-5.2l-1.8,5.2H120.3z'/>
+	<path class='st15' d='M123.1,46.9h1l2.2,5.6l2.2-5.6h1l-2.8,6.8h-0.8L123.1,46.9z'/>
+	<path class='st15' d='M130.1,50.3c0-1.9,1.1-3.5,3.1-3.5c2.2,0,2.9,1.8,2.9,3.1c0,0.2,0,0.5,0,0.6h-5c0.1,1.5,0.8,2.4,2.2,2.4
+		c0.8,0,1.4-0.2,2-0.9l0.6,0.5c-0.8,0.8-1.5,1.1-2.6,1.1C131.2,53.8,130.1,52.2,130.1,50.3z M135.2,49.8c0-0.1,0-0.3,0-0.4
+		c-0.1-0.9-0.7-1.9-2-1.9c-1.2,0-2,1-2.1,2.3H135.2z'/>
+	<path class='st15' d='M137.8,46.9h0.9V48c0.4-0.8,1.2-1.3,2.1-1.3c1.6,0,2.3,1.1,2.4,2.6v4.3h-0.9v-4.1c0-1.2-0.6-2-1.7-2
+		c-1.1,0-1.9,0.7-1.9,2v4h-0.9V46.9z'/>
+	<path class='st15' d='M145.2,55.1l0.7-0.5c0.4,0.8,1.2,1.4,2.2,1.4c1.3,0,2.2-1,2.2-2.6v-1.4c-0.4,1-1.3,1.6-2.4,1.6
+		c-1.8,0-3-1.6-3-3.5c0-1.9,1.2-3.5,3-3.5c1.1,0,2,0.6,2.4,1.6v-1.5h0.9v6.6c0,2.1-1.3,3.4-3.2,3.4
+		C146.7,56.8,145.7,56.1,145.2,55.1z M150.4,50.2c0-1.5-0.9-2.6-2.3-2.6c-1.4,0-2.3,1.2-2.3,2.6c0,1.5,0.9,2.6,2.3,2.6
+		C149.5,52.9,150.4,51.7,150.4,50.2z'/>
+	<path class='st15' d='M158.6,49.5v4.1h-0.7l-0.1-1.4c-0.5,1-1.5,1.5-2.5,1.5c-1.4,0-2.3-0.8-2.3-2.1c0-1.4,1.1-1.9,2.8-1.9h2v-0.1
+		c0-1.4-0.5-2.1-1.9-2.1c-0.9,0-1.5,0.4-2,1.1l-0.7-0.5c0.7-0.9,1.4-1.4,2.6-1.4C157.6,46.8,158.6,47.8,158.6,49.5z M157.8,51.1
+		v-0.7h-1.9c-1.4,0-2,0.5-2,1.3c0,0.8,0.6,1.3,1.6,1.3C156.7,53,157.4,52.2,157.8,51.1z'/>
+</g>
+  <text transform='matrix(0 0 0 0 0 0)' fill='none' font-size='12'>wao.io Logo</text>
+</svg>
